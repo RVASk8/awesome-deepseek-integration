@@ -6,7 +6,7 @@
 
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com//.github.com-integrary) to get an API key.
+Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform]("https://api.deepseek.com/v1/chat/completions") to get an API key.
 
 English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main)
 
